@@ -1,0 +1,25 @@
+﻿initial commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: unknown <glafira19@IC-OSU-204-3.main.tpu.ru>
+#
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   ConsoleApplication2.sln
+#	new file:   ConsoleApplication2.vsmdi
+#	new file:   ConsoleApplication2/ConsoleApplication2.csproj
+#	new file:   ConsoleApplication2/ConsoleApplication2.idc
+#	new file:   ConsoleApplication2/Program.cs
+#	new file:   ConsoleApplication2/Properties/AssemblyInfo.cs
+#	new file:   Local.testsettings
+#	new file:   MSbuild.xml
+#	new file:   TestProject1/AccountTest.cs
+#	new file:   TestProject1/ClientTest.cs
+#	new file:   TestProject1/Properties/AssemblyInfo.cs
+#	new file:   TestProject1/TestProject1.csproj
+#	new file:   TraceAndTestImpact.testsettings
+#
+
